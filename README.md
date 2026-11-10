@@ -27,6 +27,7 @@
 
 ## 🚀 如何开始
 
+📖 [查看完整安装教程与 Skill 使用说明](fiction-writing-skills/README.md)
 1. 下载或克隆本仓库。
 2. 阅读项目目录中的使用说明。
 3. 根据需要选择对应的 Skill。
