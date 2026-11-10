@@ -1,0 +1,8 @@
+{
+  "schema": 1,
+  "candidate": {"path": "candidate.md", "sha256": ""},
+  "outline": {"path": "outline.md", "sha256": ""},
+  "approval": {"path": "approval.json", "sha256": ""},
+  "source_snapshot": {"path": "snapshot.json", "sha256": ""},
+  "review": {"path": "review.json", "sha256": ""}
+}

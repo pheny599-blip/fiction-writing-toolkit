@@ -1,0 +1,19 @@
+{
+  "candidate_sha256": "",
+  "outline_sha256": "",
+  "source_snapshot_sha256": "",
+  "round": 0,
+  "mode": "single-reviewer",
+  "conclusion": "incomplete",
+  "coverage": {
+    "canon": {"status": "missing", "evidence": ""},
+    "continuity": {"status": "missing", "evidence": ""},
+    "motivation": {"status": "missing", "evidence": ""},
+    "dialogue": {"status": "missing", "evidence": ""},
+    "knowledge": {"status": "missing", "evidence": ""},
+    "narration": {"status": "missing", "evidence": ""},
+    "outline": {"status": "missing", "evidence": ""},
+    "records": {"status": "missing", "evidence": ""}
+  },
+  "issues": []
+}
